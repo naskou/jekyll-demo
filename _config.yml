@@ -22,7 +22,7 @@ title: CSS Advanced
 email: andonov.atanas98
 description: My first site
 destination: docs
-baseurl: "" 
+baseurl: "/jekyll-demo" 
 url: "" 
 facebook_username: naskou 
 github_username:  naskou
